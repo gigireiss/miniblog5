@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #DDE6E8;
+}
+header{
+    background-color: #A24D4D;
+    font-family: 'Abril Fatface', cursive;
+    width: 30vw;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+
+}
+
+
+.autor div{
+    font-family: 'Abril Fatface', cursive;
+    background-color: #D67F7F;
+    height: 10vh;
+    width: 90vw;
+    margin: 20px;
+}
